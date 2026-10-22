@@ -19,7 +19,7 @@ The notebook uses Python with:
 
 ## Getting started
 
-Open `Synaptic_plasticity_notebook.ipynb` in Jupyter Notebook or JupyterLab and work through the sections sequentially. The notebook combines background material, mathematical models, executable code, visualisations, and exercises.
+Open `Synaptic_plasticity_notebook.ipynb` in Jupyter Notebook or JupyterLab and work through the sections sequentially/seriatim. The notebook combines background material, mathematical models, executable code, visualisations, and exercises.
 
 ## Intended use
 
