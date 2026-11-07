@@ -1,6 +1,6 @@
 # Modelling Synaptic Plasticity
 
-An interactive Python/Jupyter teaching resource introducing computational models of **synaptic plasticity** for my students learning about neurophysiology.
+An interactive Python/Jupyter teaching resource introducing computational models of **synaptic plasticity** for my current students learning about neurophysiology.
 
 The notebook covers two core forms of synaptic plasticity:
 
